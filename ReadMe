@@ -10,7 +10,8 @@ I then concatenated the Winter and Summer Olympics data into a single dataframe 
 categories such as country, sport and athlete.
 
 I found that the USA has the most participants in both the Winter and Summer Olympics and Aquatics has had the most Olympians since 1924, 
-followed by Athletics and Rowing. I also observed that 87.2% of the overall metals of Athletics are from the Athletics segment. 
+followed by Athletics and Rowing. I also observed that 87.2% of the overall metals of Athletics are from the Athletics segment. According to the Olympic Website, 
+Athletics is "Athletics is a group of track and field events covering a wide variety of sports, with competitions featuring running, walking, jumping and throwing under different disciplines."
 
 Furthermore, USA has the most metals in Aquatics, followed by Athletics, followed by Austria in Aquatics.
 
