@@ -1,5 +1,7 @@
-I recently completed an analysis on Python, using Data from Winter and Summer Olympics. First, I imported the necessary libraries and read in two csv files,
-one for the Winter Olympics and one for the Summer Olympics. Using the head() function in pandas, I was able to preview the first few rows of the data.
+I recently completed an analysis on Python, using Data from Winter and Summer Olympics. 
+
+First, I imported the necessary libraries and read in two csv files,one for the Winter Olympics and one for the Summer Olympics. Using the head() function 
+in pandas, I was able to preview the first few rows of the data.
 
 Next, I used the seaborn library to create countplots of the gender of participants in both the Winter and Summer Olympics. This allowed me to quickly 
 visualize the distribution of male and female participants in each event.
